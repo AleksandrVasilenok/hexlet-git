@@ -3,3 +3,4 @@ node_modules/
 /coverage/
 doc/**/*.txt
 /db/*.sqlite3
+INFO.md
